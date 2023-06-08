@@ -1,1 +1,1 @@
-# JS-part2-OBRIGATORIO-1
+# SnakeGameJavaScript
